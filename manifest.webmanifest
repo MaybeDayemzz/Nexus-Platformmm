@@ -1,0 +1,10 @@
+{
+  "name": "NEXUS",
+  "short_name": "NEXUS",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#080a10",
+  "theme_color": "#080a10",
+  "description": "NEXUS community and collaboration SaaS frontend demo",
+  "icons": []
+}
